@@ -2405,3 +2405,698 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.20-23.32.21:429][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FlyingBP/Maps/FlyingExampleMap' took 0.069
 [2020.12.20-23.32.21:429][361]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
 [2020.12.20-23.35.24:440][909]LogSlate: Took 0.004929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.20-23.37.54:999][313]LogTexture: Display: Building textures: T_GiantGrassBunch_Xaxis_Xextent (BGRA8, 11X10)
+[2020.12.20-23.37.54:999][313]LogTexture: Display: Building textures: T_TallGrassBunch_PivotPoint_Index_HDR (RGBA16F, 11X10)
+[2020.12.20-23.37.54:999][313]LogTexture: Display: Building textures: T_DandelionFlower_PivotPoint_Index_HDR (RGBA16F, 7X2)
+[2020.12.20-23.37.54:999][313]LogTexture: Display: Building textures: T_DandelionFlower_Xaxis_Xextent (BGRA8, 7X2)
+[2020.12.20-23.37.54:999][313]LogStaticMesh: Building static mesh Mesh_DandelionFlowerPatch...
+[2020.12.20-23.37.55:001][313]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.37.55:025][313]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.20-23.37.55:032][313]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.37.55:118][313]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.37.55:153][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.20-23.37.55:154][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.20-23.37.55:154][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.20-23.37.55:154][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.20-23.37.55:154][313]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.37.56:195][372]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.37.56:328][376]Cmd: TRANSACTION UNDO
+[2020.12.20-23.37.56:329][376]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.37.56:344][376]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.37.58:495][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 144
+[2020.12.20-23.37.58:913][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 134
+[2020.12.20-23.37.58:955][481]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 124
+[2020.12.20-23.37.59:233][495]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 114
+[2020.12.20-23.38.00:449][546]LogStaticMesh: Building static mesh Mesh_DandelionFlowerPatch_Pale...
+[2020.12.20-23.38.00:450][546]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.00:472][546]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch_Pale.Mesh_DandelionFlowerPatch_Pale
+[2020.12.20-23.38.00:481][546]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.38.00:518][546]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.02:479][775]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.03:228][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2020.12.20-23.38.03:451][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 186
+[2020.12.20-23.38.03:626][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 176
+[2020.12.20-23.38.04:508][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2020.12.20-23.38.06:516][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2020.12.20-23.38.07:112][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 146
+[2020.12.20-23.38.07:554][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2020.12.20-23.38.09:651][247]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 126
+[2020.12.20-23.38.09:966][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2020.12.20-23.38.11:456][316]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.12.20-23.38.12:723][362]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.12.20-23.38.14:579][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2020.12.20-23.38.14:804][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.12.20-23.38.17:429][612]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.12.20-23.38.17:629][636]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.12.20-23.38.17:852][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.12.20-23.38.17:912][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.12.20-23.38.20:729][773]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.12.20-23.38.22:037][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.20-23.38.22:050][825]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.20-23.38.23:058][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.20-23.38.23:960][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.20-23.38.24:257][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.38.24:836][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.20-23.38.25:074][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.20-23.38.25:345][956]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.20-23.38.29:345][184]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.32:841][480]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.34:356][660]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.36:899][873]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.37:769][977]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.49:508][693]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.38.57:728][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.12.20-23.39.08:670][ 97]LogTexture: Display: Building textures: T_WheatGrasses_PivotPoint_Index_HDR (RGBA16F, 12X11)
+[2020.12.20-23.39.08:670][ 97]LogTexture: Display: Building textures: T_WheatGrasses_Xaxis_Xextent (BGRA8, 12X11)
+[2020.12.20-23.39.08:670][ 97]LogTexture: Display: Building textures: T_TallGrassBunch_Xaxis_Xextent (BGRA8, 11X10)
+[2020.12.20-23.39.08:670][ 97]LogTexture: Display: Building textures: T_GiantGrassBunch_PivotPoint_Index_HDR (RGBA16F, 11X10)
+[2020.12.20-23.39.08:670][ 97]LogTexture: Display: Building textures: T_TallGrassTuft_PivotPoint_Index_HDR (RGBA16F, 25X2)
+[2020.12.20-23.39.08:670][ 97]LogTexture: Display: Building textures: T_TallGrassTuft_Xaxis_Xextent (BGRA8, 25X2)
+[2020.12.20-23.39.08:670][ 97]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.39.08:707][ 97]LogStaticMesh: Building static mesh Mesh_TallGrassBunch_Green...
+[2020.12.20-23.39.08:709][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.08:726][ 97]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.20-23.39.08:726][ 97]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.20-23.39.08:726][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.20-23.39.08:726][ 97]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.20-23.39.08:735][ 97]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Green.Mesh_TallGrassBunch_Green
+[2020.12.20-23.39.08:741][ 97]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassLandscape_Arctic, compiling. 
+[2020.12.20-23.39.08:751][ 97]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.39.08:789][ 97]LogStaticMesh: Building static mesh Mesh_GiantGrassBunch_LightGreen...
+[2020.12.20-23.39.08:790][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.08:814][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGreen.Mesh_GiantGrassBunch_LightGreen
+[2020.12.20-23.39.08:819][ 97]LogStaticMesh: Building static mesh Mesh_TallGrassTuft_DrabGreen...
+[2020.12.20-23.39.08:820][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.08:830][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_DrabGreen.Mesh_TallGrassTuft_DrabGreen
+[2020.12.20-23.39.08:836][ 97]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.39.08:872][ 97]LogStaticMesh: Building static mesh Mesh_WheatGrassStalks_Green...
+[2020.12.20-23.39.08:873][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.08:896][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassStalks/Mesh_WheatGrassStalks_Green.Mesh_WheatGrassStalks_Green
+[2020.12.20-23.39.08:901][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.09:942][177]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.11:503][275]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 257
+[2020.12.20-23.39.11:905][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 247
+[2020.12.20-23.39.12:031][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 237
+[2020.12.20-23.39.12:348][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 227
+[2020.12.20-23.39.16:775][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 217
+[2020.12.20-23.39.16:854][666]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.39.16:894][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 207
+[2020.12.20-23.39.16:894][666]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.39.16:931][666]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassLandscape_Western, compiling. 
+[2020.12.20-23.39.16:942][666]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassLandscape_Western, compiling. 
+[2020.12.20-23.39.16:953][666]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.39.16:992][666]LogStaticMesh: Building static mesh Mesh_SpearGrassStalks_Gold...
+[2020.12.20-23.39.16:993][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.17:017][666]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassStalks/Mesh_SpearGrassStalks_Gold.Mesh_SpearGrassStalks_Gold
+[2020.12.20-23.39.17:026][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.17:069][668]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 515
+[2020.12.20-23.39.18:241][717]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassLandscape_Arctic, compiling. 
+[2020.12.20-23.39.18:251][717]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.18:292][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 526
+[2020.12.20-23.39.20:757][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 516
+[2020.12.20-23.39.21:676][972]Cmd: TRANSACTION UNDO
+[2020.12.20-23.39.21:676][972]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.39.21:687][972]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.21:727][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 506
+[2020.12.20-23.39.21:809][975]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 496
+[2020.12.20-23.39.21:859][976]Cmd: TRANSACTION UNDO
+[2020.12.20-23.39.21:859][976]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.39.22:028][980]Cmd: TRANSACTION UNDO
+[2020.12.20-23.39.22:028][980]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.39.23:678][130]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 486
+[2020.12.20-23.39.23:773][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 476
+[2020.12.20-23.39.24:562][212]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 466
+[2020.12.20-23.39.24:581][214]Cmd: TRANSACTION REDO
+[2020.12.20-23.39.24:582][214]LogEditorTransaction: Redo Create Actors
+[2020.12.20-23.39.25:182][269]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 456
+[2020.12.20-23.39.28:030][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 446
+[2020.12.20-23.39.29:097][440]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 436
+[2020.12.20-23.39.29:205][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 426
+[2020.12.20-23.39.30:227][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 416
+[2020.12.20-23.39.32:212][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 406
+[2020.12.20-23.39.33:014][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 396
+[2020.12.20-23.39.33:707][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.20-23.39.34:312][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 386
+[2020.12.20-23.39.34:688][686]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 376
+[2020.12.20-23.39.35:801][739]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 366
+[2020.12.20-23.39.37:418][828]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.37:442][828]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 356
+[2020.12.20-23.39.39:116][ 22]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 346
+[2020.12.20-23.39.39:192][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 336
+[2020.12.20-23.39.39:745][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 326
+[2020.12.20-23.39.40:899][128]Cmd: TRANSACTION UNDO
+[2020.12.20-23.39.40:899][128]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.39.40:922][128]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.41:436][144]Cmd: TRANSACTION UNDO
+[2020.12.20-23.39.41:436][144]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.39.42:016][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 316
+[2020.12.20-23.39.42:988][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 306
+[2020.12.20-23.39.43:362][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 296
+[2020.12.20-23.39.44:439][287]Cmd: EDIT COPY
+[2020.12.20-23.39.44:646][297]Cmd: EDIT PASTE
+[2020.12.20-23.39.45:052][316]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 286
+[2020.12.20-23.39.45:520][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.45:618][347]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 276
+[2020.12.20-23.39.46:527][439]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 266
+[2020.12.20-23.39.48:898][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 256
+[2020.12.20-23.39.48:957][563]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.39.49:609][640]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 246
+[2020.12.20-23.39.50:050][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 236
+[2020.12.20-23.39.52:768][807]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 226
+[2020.12.20-23.39.52:794][808]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 216
+[2020.12.20-23.39.53:131][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 206
+[2020.12.20-23.39.55:843][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 196
+[2020.12.20-23.39.56:467][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 186
+[2020.12.20-23.39.56:522][983]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2020.12.20-23.39.58:209][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 166
+[2020.12.20-23.40.00:542][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2020.12.20-23.40.00:870][168]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 146
+[2020.12.20-23.40.02:570][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2020.12.20-23.40.04:515][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2020.12.20-23.40.04:934][356]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2020.12.20-23.40.05:584][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 106
+[2020.12.20-23.40.06:488][416]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.40.06:632][427]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.12.20-23.40.08:082][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 86
+[2020.12.20-23.40.08:112][597]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.40.08:255][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2020.12.20-23.40.08:408][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2020.12.20-23.40.09:405][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.12.20-23.40.11:567][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.12.20-23.40.12:853][823]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.12.20-23.40.14:003][875]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.20-23.40.14:361][890]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.12.20-23.40.16:814][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.20-23.40.17:408][ 21]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.20-23.40.18:626][ 77]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.20-23.40.18:638][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.20-23.40.19:321][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.20-23.40.19:376][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.20-23.40.19:635][125]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.20-23.40.51:715][414]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.40.51:750][414]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.40.51:759][414]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.20-23.40.51:759][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.20-23.40.51:759][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.20-23.40.51:759][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.20-23.40.52:780][475]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.40.54:316][541]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.12.20-23.40.54:596][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.12.20-23.40.54:694][559]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.20-23.40.54:947][570]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.20-23.40.57:073][674]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.20-23.40.58:721][754]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.20-23.40.58:779][757]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.20-23.40.59:041][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.41.00:067][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.20-23.41.00:244][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.20-23.41.00:747][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.20-23.41.07:448][606]Cmd: TRANSACTION UNDO
+[2020.12.20-23.41.07:448][606]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.41.07:450][606]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.34:693][205]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.36:684][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.42:214][740]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.43:869][854]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.45:512][961]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.59:409][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.41.59:424][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.20-23.41.59:428][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.20-23.41.59:482][836]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMapBD8229604E9EE096E17C9AB89CDCE070.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.20-23.41.59:500][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.20-23.41.59:794][836]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_BuiltData351A9F924E34B2CDAD4A4B91739A7F8F.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.20-23.41.59:802][836]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.20-23.41.59:802][836]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.12.20-23.41.59:802][836]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.12.20-23.42.11:929][803]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassFog, compiling. 
+[2020.12.20-23.42.11:940][803]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.42.11:952][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.20-23.42.11:952][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.20-23.42.11:955][803]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BeefyGrassLands/FogPostProcess/M_BeefyGrassFog.M_BeefyGrassFog
+[2020.12.20-23.42.11:957][803]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 3 classes and 0 folders.
+[2020.12.20-23.42.11:959][803]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassFog, compiling. 
+[2020.12.20-23.42.11:973][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.20-23.42.11:973][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.20-23.42.12:251][803]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.42.12:287][803]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassFog, compiling. 
+[2020.12.20-23.42.12:289][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.20-23.42.12:289][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.20-23.42.12:296][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.12.20-23.42.12:300][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.12.20-23.42.12:302][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSceneTexture_1, compiling. 
+[2020.12.20-23.42.12:329][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.20-23.42.12:329][803]LogSlate: Took 0.003847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.20-23.42.12:443][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.12.20-23.42.12:589][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.20-23.42.12:604][813]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.20-23.42.12:626][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.20-23.42.12:649][816]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.20-23.42.12:672][817]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.12.20-23.42.12:673][817]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2020.12.20-23.42.12:673][817]MaterialEditorStats: Texture samplers: 2/16
+[2020.12.20-23.42.12:673][817]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.12.20-23.42.12:673][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.12.20-23.42.12:868][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.20-23.42.12:942][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.20-23.42.12:971][833]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.20-23.42.12:986][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.42.13:136][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.20-23.42.13:272][849]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.20-23.42.13:289][850]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.20-23.42.13:319][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.20-23.42.21:715][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.12.20-23.42.21:718][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.12.20-23.42.21:720][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSceneTexture_1, compiling. 
+[2020.12.20-23.42.21:731][406]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.20-23.42.21:731][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.20-23.42.21:731][406]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.20-23.42.21:731][406]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.12.20-23.42.21:989][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.20-23.42.22:018][431]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.20-23.42.22:065][435]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.12.20-23.42.22:072][435]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.42.22:272][447]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.20-23.42.22:340][455]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.20-23.42.22:360][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.20-23.42.22:386][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.20-23.42.33:077][348]LogSlate: Window 'M_BeefyGrassFog' being destroyed
+[2020.12.20-23.42.33:080][348]LogSlate: Window 'M_BeefyGrassFog' being destroyed
+[2020.12.20-23.42.33:109][348]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-23.42.33:110][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-23.42.46:935][431]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.42.48:322][593]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.42.50:870][857]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.12.20-23.42.50:883][858]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.20-23.42.50:883][858]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.20-23.42.50:902][858]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.12.20-23.42.50:904][858]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.20-23.42.50:904][858]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.20-23.42.50:938][859]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.12.20-23.42.50:967][860]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.12.20-23.42.50:994][861]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.12.20-23.42.51:021][862]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.12.20-23.42.51:052][863]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.12.20-23.42.51:090][864]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2020.12.20-23.42.51:144][865]LogMaterial: Display: Missing cached shader map for material Material_8, compiling. 
+[2020.12.20-23.42.51:193][866]LogMaterial: Display: Missing cached shader map for material Material_9, compiling. 
+[2020.12.20-23.42.51:203][866]LogMaterial: Display: Missing cached shader map for material Material_10, compiling. 
+[2020.12.20-23.42.51:234][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.20-23.42.51:237][867]LogMaterial: Display: Missing cached shader map for material Material_11, compiling. 
+[2020.12.20-23.42.51:266][868]LogMaterial: Display: Missing cached shader map for material Material_12, compiling. 
+[2020.12.20-23.42.51:280][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.20-23.42.51:296][869]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
+[2020.12.20-23.42.51:308][870]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.20-23.42.51:322][870]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2020.12.20-23.42.51:352][871]LogMaterial: Display: Missing cached shader map for material Material_15, compiling. 
+[2020.12.20-23.42.51:372][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.20-23.42.52:538][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.20-23.42.52:669][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.20-23.42.52:742][939]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.20-23.42.52:898][948]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.20-23.42.53:180][965]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.20-23.42.53:264][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.20-23.43.50:297][663]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.05:939][ 93]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.15:577][224]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.20:498][659]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.20:984][710]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.22:103][841]MapCheck: New page: Map Check
+[2020.12.20-23.44.22:109][841]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.22:115][841]LightingResults: New page: Lighting Build - Dec 20, 2020, 7:44:22 AM
+[2020.12.20-23.44.22:189][841]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.20-23.44.22:244][841]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.20-23.44.22:255][841]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.20-23.44.22:767][841]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.20-23.44.22:767][841]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19156
+[2020.12.20-23.44.25:389][841]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.20-23.44.25:389][841]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.20-23.44.25:389][841]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.20-23.44.25:389][841]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.20-23.44.25:389][841]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.20-23.44.25:529][841]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.25:531][841]LogEditorBuildUtils: Build time 0:03
+[2020.12.20-23.44.25:539][841]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.12.20-23.44.25:541][841]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.12.20-23.44.25:542][841]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.20-23.44.25:544][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.20-23.44.25:544][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.20-23.44.25:544][841]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.20-23.44.25:547][841]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GrayMaterial, compiling. 
+[2020.12.20-23.44.25:549][841]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GrayMaterial, compiling. 
+[2020.12.20-23.44.25:582][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.20-23.44.25:582][842]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.20-23.44.25:589][842]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BeefyGrassLandscape_Arctic, compiling. 
+[2020.12.20-23.44.25:592][842]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BeefyGrassLandscape_Arctic, compiling. 
+[2020.12.20-23.44.25:596][842]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.12.20-23.44.25:600][842]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.12.20-23.44.26:932][843]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.20-23.44.26:932][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.20-23.44.26:932][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.20-23.44.26:932][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.20-23.44.26:932][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.20-23.44.27:251][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.20-23.44.53:082][514]Job is a success!
+[2020.12.20-23.44.53:162][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.53:164][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.057s
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:          1: 6.2% covering 9.4% of volume
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:          2: 92.8% covering 2.2% of volume
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.20-23.44.53:347][515]LogVolumetricLightmapImport:          FlyingExampleMap 			 389 bricks 	 100.0% (Persistent Level)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2020.12.20-23.44.54:353][515]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2020.12.20-23.44.54:540][515]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.12.20-23.44.54:540][515]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X256)
+[2020.12.20-23.44.54:540][515]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.12.20-23.44.54:540][515]Lightmass on KAT-PC: 26.3 sec total, 105 ms importing, 31 ms setup, 2.16 sec photons, 23.7 sec processing, 0 ms extra exporting [315/315 mappings]. Threads: 2:46 min total, 2:02 min processing.
+[2020.12.20-23.44.54:540][515]LogStaticLightingSystem: FlyingExampleMap_BuiltData storing lightmap data for 315 meshes in 8 LightmapResourceClusters (39.4 Meshes per cluster).
+[2020.12.20-23.44.54:551][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.20-23.44.54:563][515]LogStaticLightingSystem: Illumination: 32.4 sec (876 ms encoding lightmaps, 133 ms encoding shadowmaps)
+[2020.12.20-23.44.54:563][515]LogStaticLightingSystem: Lightmap texture memory:  8.7 MB (8.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2020.12.20-23.44.54:563][515]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.12.20-23.44.55:419][515]DumpUnbuiltLightIteractions
+[2020.12.20-23.44.55:419][515]Lights with unbuilt interactions: 0
+[2020.12.20-23.44.55:419][515]
+[2020.12.20-23.44.55:419][515]Primitives with unbuilt interactions: 0
+[2020.12.20-23.44.55:420][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.55:555][515]LogTexture: Display: Building textures: NewReflectionComponentTexture9ACF3CA346935F1EE16465B6081C6F1E (BGRA8, 128X128)
+[2020.12.20-23.44.55:566][515]LogTexture: Display: Building textures: NewReflectionComponentTextureD0D59F1F4CA6D2F0A9F0ADBCEAE2D240 (BGRA8, 128X128)
+[2020.12.20-23.44.55:580][515]LogTexture: Display: Building textures: NewReflectionComponentTextureD7CBE4C74E12946C4581EE9BCAB13803 (BGRA8, 128X128)
+[2020.12.20-23.44.55:640][516]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.20-23.44.55:640][516]MapCheck: New page: FlyingExampleMap - Dec 20, 2020, 7:44:55 AM
+[2020.12.20-23.44.55:641][516]MapCheck: Warning: Ground Ground is in the same location as Ground2 
+[2020.12.20-23.44.55:641][516]MapCheck: Warning: Ground2 Ground2 is in the same location as Ground 
+[2020.12.20-23.44.55:641][516]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1.36ms to complete.
+[2020.12.20-23.44.55:646][516]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.58:436][804]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.58:466][804]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FT_DandelionFlowerPatch_Pale162387BC4D9B384D5BD240B303505099.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/FT_DandelionFlowerPatch_Pale.uasset'
+[2020.12.20-23.44.58:475][804]AssetCheck: New page: Asset Save: FT_DandelionFlowerPatch_Pale
+[2020.12.20-23.44.58:475][804]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/FT_DandelionFlowerPatch_Pale.FT_DandelionFlowerPatch_Pale
+[2020.12.20-23.44.59:777][949]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.44.59:862][955]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.20-23.45.03:866][431]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.20-23.45.04:436][492]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.04:579][506]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch_Pale
+[2020.12.20-23.45.05:137][571]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch_Pale
+[2020.12.20-23.45.06:259][700]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.07:941][892]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.09:768][106]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.09:887][116]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.20-23.45.10:613][201]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.20-23.45.11:530][308]Cmd: DELETE
+[2020.12.20-23.45.11:530][308]Cmd: ACTOR DELETE
+[2020.12.20-23.45.11:537][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.20-23.45.11:541][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.12.20-23.45.11:543][308]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2020.12.20-23.45.18:943][177]LogStaticMesh: Building static mesh Mesh_DandelionFlowerStalks...
+[2020.12.20-23.45.18:945][177]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.18:973][177]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerStalks/Mesh_DandelionFlowerStalks.Mesh_DandelionFlowerStalks
+[2020.12.20-23.45.18:978][177]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.20:532][355]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.20:618][361]LogActorFactory: Actor Factory created Mesh_DandelionFlowerStalks
+[2020.12.20-23.45.20:904][394]LogActorFactory: Actor Factory created Mesh_DandelionFlowerStalks
+[2020.12.20-23.45.21:857][506]Cmd: TRANSACTION UNDO
+[2020.12.20-23.45.21:857][506]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.45.21:860][506]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.31:216][573]LogStaticMesh: Building static mesh Mesh_DandelionFlowerStalk...
+[2020.12.20-23.45.31:218][573]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.31:235][573]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerStalks/Mesh_DandelionFlowerStalk.Mesh_DandelionFlowerStalk
+[2020.12.20-23.45.31:241][573]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.31:279][577]LogActorFactory: Actor Factory created Mesh_DandelionFlowerStalk
+[2020.12.20-23.45.32:728][750]LogActorFactory: Actor Factory created Mesh_DandelionFlowerStalk
+[2020.12.20-23.45.33:348][817]Cmd: TRANSACTION UNDO
+[2020.12.20-23.45.33:348][817]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.45.33:353][817]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.34:359][888]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.34:445][896]LogActorFactory: Actor Factory created Mesh_DandelionFlowerStalks_Pale
+[2020.12.20-23.45.34:692][924]LogActorFactory: Actor Factory created Mesh_DandelionFlowerStalks_Pale
+[2020.12.20-23.45.35:615][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.45.36:557][142]Cmd: TRANSACTION UNDO
+[2020.12.20-23.45.36:557][142]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.45.36:570][142]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.37:091][159]Cmd: TRANSACTION UNDO
+[2020.12.20-23.45.37:091][159]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.45.44:706][ 44]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.44:859][ 59]LogActorFactory: Actor Factory created Mesh_GiantGrassBunch_LightGold
+[2020.12.20-23.45.45:912][183]LogActorFactory: Actor Factory created Mesh_GiantGrassBunch_LightGold
+[2020.12.20-23.45.46:983][297]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.47:119][309]LogActorFactory: Actor Factory created Mesh_GiantGrassBunch_LightGreen
+[2020.12.20-23.45.47:793][381]LogActorFactory: Actor Factory created Mesh_GiantGrassBunch_LightGreen
+[2020.12.20-23.45.50:689][712]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.52:167][885]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.57:219][454]LogTexture: Display: Building textures: T_PlantainPlant_PivotPoint_Index_HDR (RGBA16F, 17X2)
+[2020.12.20-23.45.57:219][454]LogTexture: Display: Building textures: T_PlantainPlant_Xaxis_Xextent (BGRA8, 17X2)
+[2020.12.20-23.45.57:220][454]LogStaticMesh: Building static mesh Mesh_PlantainPlant...
+[2020.12.20-23.45.57:221][454]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.57:234][454]LogStaticMesh: Built static mesh [0.01s] /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.Mesh_PlantainPlant
+[2020.12.20-23.45.57:238][454]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.45.57:273][454]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.57:285][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.20-23.45.57:285][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.20-23.45.57:285][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.20-23.45.57:285][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.20-23.45.58:287][568]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.59:023][601]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.45.59:137][610]LogActorFactory: Actor Factory created Mesh_PlantainPlant
+[2020.12.20-23.45.59:602][643]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.12.20-23.45.59:770][655]LogActorFactory: Actor Factory created Mesh_PlantainPlant
+[2020.12.20-23.45.59:908][667]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.12.20-23.46.00:028][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.20-23.46.00:326][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.20-23.46.00:606][733]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.00:712][741]LogActorFactory: Actor Factory created Mesh_PlantainPlant_Pale
+[2020.12.20-23.46.01:410][800]LogActorFactory: Actor Factory created Mesh_PlantainPlant_Pale
+[2020.12.20-23.46.02:571][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.20-23.46.04:412][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.20-23.46.04:452][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.20-23.46.04:690][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.46.05:709][250]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.20-23.46.05:860][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.20-23.46.06:421][335]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.20-23.46.09:810][720]LogTexture: Display: Building textures: T_SmallGrassBunch_Xaxis_Xextent (BGRA8, 25X3)
+[2020.12.20-23.46.09:810][720]LogTexture: Display: Building textures: T_SmallGrassBunch_PivotPoint_Index_HDR (RGBA16F, 25X3)
+[2020.12.20-23.46.09:810][720]LogStaticMesh: Building static mesh Mesh_SmallGrassBunch_Gold...
+[2020.12.20-23.46.09:811][720]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.09:835][720]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.Mesh_SmallGrassBunch_Gold
+[2020.12.20-23.46.09:841][720]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.10:070][744]LogActorFactory: Actor Factory created Mesh_SmallGrassBunch_Gold
+[2020.12.20-23.46.10:698][817]LogActorFactory: Actor Factory created Mesh_SmallGrassBunch_Gold
+[2020.12.20-23.46.11:499][901]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.46.11:535][901]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.11:563][901]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.20-23.46.11:563][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.20-23.46.11:563][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.20-23.46.11:563][901]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.20-23.46.11:688][914]LogActorFactory: Actor Factory created Mesh_SmallGrassBunch_Green
+[2020.12.20-23.46.12:495][985]LogActorFactory: Actor Factory created Mesh_SmallGrassBunch_Green
+[2020.12.20-23.46.12:551][988]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.13:934][ 83]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.12.20-23.46.14:313][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.12.20-23.46.14:389][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.20-23.46.14:707][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.20-23.46.17:007][403]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.20-23.46.18:735][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.20-23.46.18:778][591]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.20-23.46.19:073][622]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.46.20:098][730]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.46.20:139][730]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.20-23.46.20:139][730]LogStaticMesh: Building static mesh Mesh_SpearGrassBunch_Gold...
+[2020.12.20-23.46.20:141][730]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.20:170][730]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.Mesh_SpearGrassBunch_Gold
+[2020.12.20-23.46.20:178][730]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.20:238][731]LogActorFactory: Actor Factory created Mesh_SpearGrassBunch_Gold
+[2020.12.20-23.46.20:288][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 94
+[2020.12.20-23.46.20:750][752]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 84
+[2020.12.20-23.46.20:778][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2020.12.20-23.46.21:278][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.12.20-23.46.21:312][809]LogActorFactory: Actor Factory created Mesh_SpearGrassBunch_Gold
+[2020.12.20-23.46.22:642][937]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.46.22:683][937]LogStaticMesh: Building static mesh Mesh_SpearGrassBunch_Green...
+[2020.12.20-23.46.22:686][937]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.22:707][937]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Green.Mesh_SpearGrassBunch_Green
+[2020.12.20-23.46.22:715][937]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.23:079][976]LogActorFactory: Actor Factory created Mesh_SpearGrassBunch_Green
+[2020.12.20-23.46.23:314][991]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2020.12.20-23.46.23:606][ 22]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2020.12.20-23.46.23:929][ 59]LogActorFactory: Actor Factory created Mesh_SpearGrassBunch_Green
+[2020.12.20-23.46.24:270][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2020.12.20-23.46.24:638][123]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2020.12.20-23.46.27:832][452]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2020.12.20-23.46.29:227][601]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2020.12.20-23.46.29:432][617]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 86
+[2020.12.20-23.46.29:726][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.12.20-23.46.30:002][667]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.30:211][686]LogActorFactory: Actor Factory created Mesh_TallGrassBunch_Gold
+[2020.12.20-23.46.31:093][766]LogActorFactory: Actor Factory created Mesh_TallGrassBunch_Gold
+[2020.12.20-23.46.32:155][854]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.32:313][870]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.12.20-23.46.32:418][881]LogActorFactory: Actor Factory created Mesh_TallGrassBunch_Green
+[2020.12.20-23.46.32:468][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.12.20-23.46.32:959][917]LogActorFactory: Actor Factory created Mesh_TallGrassBunch_Green
+[2020.12.20-23.46.34:522][ 49]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.12.20-23.46.34:644][ 60]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.12.20-23.46.35:576][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.12.20-23.46.36:921][250]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.20-23.46.38:930][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.20-23.46.38:971][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.20-23.46.39:975][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.20-23.46.40:178][560]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.20-23.46.40:947][623]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.41:128][638]LogActorFactory: Actor Factory created Mesh_TallGrassTuft_DrabGreen
+[2020.12.20-23.46.41:229][638]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.20-23.46.41:304][639]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.20-23.46.41:327][640]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.20-23.46.41:984][705]LogActorFactory: Actor Factory created Mesh_TallGrassTuft_DrabGreen
+[2020.12.20-23.46.43:363][843]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.43:492][853]LogActorFactory: Actor Factory created Mesh_TallGrassTuft_GoldenBrown
+[2020.12.20-23.46.44:120][925]LogActorFactory: Actor Factory created Mesh_TallGrassTuft_GoldenBrown
+[2020.12.20-23.46.50:463][682]Cmd: TRANSACTION UNDO
+[2020.12.20-23.46.50:463][682]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.46.50:465][682]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.46.50:763][691]Cmd: TRANSACTION UNDO
+[2020.12.20-23.46.50:763][691]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.46.51:363][742]Cmd: TRANSACTION UNDO
+[2020.12.20-23.46.51:363][742]LogEditorTransaction: Undo Create Actors
+[2020.12.20-23.46.59:813][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_DandelionFlowerPatch)
+[2020.12.20-23.47.04:073][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.47.04:565][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_DandelionFlowerPatch_Pale)
+[2020.12.20-23.47.10:785][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_GiantGrassBunch_LightGold)
+[2020.12.20-23.47.13:324][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_GiantGrassBunch_LightGreen)
+[2020.12.20-23.47.16:478][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.47.16:987][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.47.17:433][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.47.17:580][806]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.12.20-23.47.20:937][206]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.20:937][206]LogEditorTransaction: Undo Clicking on Components
+[2020.12.20-23.47.20:949][206]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.47.21:126][211]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.21:126][211]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.47.21:686][246]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.21:686][246]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.47.21:978][280]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.21:978][280]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.47.22:239][306]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.22:239][306]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.47.31:013][355]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.31:014][355]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.47.31:015][355]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.47.32:246][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.47.37:368][ 51]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.37:368][ 51]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.47.37:379][ 51]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.47.37:560][ 56]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.37:560][ 56]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.47.37:728][ 61]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.37:728][ 61]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.47.38:845][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_GiantGrassBunch_LightGold)
+[2020.12.20-23.47.44:786][888]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.44:786][888]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.47.44:787][888]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.47.45:443][921]Cmd: TRANSACTION UNDO
+[2020.12.20-23.47.45:443][921]LogEditorTransaction: Undo Move Actors
+[2020.12.20-23.47.46:795][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_GiantGrassBunch_LightGreen)
+[2020.12.20-23.47.47:665][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PlantainPlant)
+[2020.12.20-23.47.51:651][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_TallGrassBunch_Gold)
+[2020.12.20-23.47.55:697][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_TallGrassBunch_Green)
+[2020.12.20-23.47.58:193][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.48.07:379][470]LogStaticMesh: Building static mesh Mesh_WheatGrassBunch_Gold...
+[2020.12.20-23.48.07:381][470]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.07:399][470]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.Mesh_WheatGrassBunch_Gold
+[2020.12.20-23.48.07:403][470]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.07:490][477]LogActorFactory: Actor Factory created Mesh_WheatGrassBunch_Gold
+[2020.12.20-23.48.08:752][626]LogActorFactory: Actor Factory created Mesh_WheatGrassBunch_Gold
+[2020.12.20-23.48.10:402][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.48.17:096][601]LogMaterial: Display: Missing cached shader map for material M_BeefyGrassMaster, compiling. 
+[2020.12.20-23.48.17:132][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.20-23.48.17:132][601]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.20-23.48.17:132][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.20-23.48.17:132][601]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.20-23.48.17:132][601]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.17:225][608]LogActorFactory: Actor Factory created Mesh_WheatGrassBunch_Green
+[2020.12.20-23.48.18:149][688]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.18:218][690]LogActorFactory: Actor Factory created Mesh_WheatGrassBunch_Green
+[2020.12.20-23.48.19:677][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.12.20-23.48.19:994][858]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.12.20-23.48.20:075][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.20-23.48.20:283][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2020.12.20-23.48.20:398][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.20-23.48.22:664][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.20-23.48.24:442][329]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.20-23.48.24:492][335]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.20-23.48.24:729][360]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.20-23.48.25:834][486]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.20-23.48.26:052][511]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.20-23.48.26:612][577]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.20-23.48.49:067][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.51:063][444]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.53:296][688]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.53:345][691]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.53:463][699]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.53:661][719]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.53:726][725]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:078][766]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:212][780]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:226][781]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:696][833]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:761][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:845][844]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.54:868][846]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.55:046][865]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.57:695][165]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.57:712][166]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.57:997][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.48.58:707][280]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.00:894][540]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.01:236][580]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.02:225][684]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.02:790][750]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.03:426][824]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.03:517][834]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.03:575][840]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.09:089][502]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.11:472][788]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.19:149][679]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.49.49:644][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.20-23.49.50:156][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_DandelionFlowerPatch_Pale)
+[2020.12.20-23.49.51:721][517]Cmd: TRANSACTION UNDO
+[2020.12.20-23.49.51:721][517]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.20-23.49.51:732][517]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.50.00:362][491]Cmd: MODE GRID=0
+[2020.12.20-23.50.06:373][208]Cmd: MODE GRID=1
+[2020.12.20-23.50.06:875][268]Cmd: MODE GRID=0
+[2020.12.20-23.50.12:695][961]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.50.12:707][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.20-23.50.12:714][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.20-23.50.12:770][961]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap612B1B2741AC394B36790286234A9C17.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.20-23.50.12:785][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.20-23.50.12:921][961]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_BuiltData349DEEFD499D66A137E0FE8093BCFDF0.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.20-23.50.12:931][961]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.20-23.50.12:931][961]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.12.20-23.50.12:931][961]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.12.20-23.50.15:789][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_GiantGrassBunch_LightGreen)
+[2020.12.20-23.51.15:547][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.51.15:555][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.20-23.51.15:559][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.12.20-23.51.15:616][351]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMapCE9A07E34DC9617BAC4F2D825E09E1C0.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.20-23.51.15:628][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.20-23.51.15:763][351]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_BuiltData4CA6CB954BE1FDCD3EBB56923F774C69.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.20-23.51.15:771][351]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.20-23.51.15:771][351]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.12.20-23.51.15:771][351]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
