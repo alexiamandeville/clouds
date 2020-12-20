@@ -2398,3 +2398,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.20-23.28.54:317][ 41]LogDirectoryWatcher: A directory notification failed for 'D:/Documents/GitHub/clouds/Clouds/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2020.12.20-23.28.54:317][ 41]LogDirectoryWatcher: A directory notification failed for 'D:/Documents/GitHub/clouds/Clouds/Content/Developers/Kat/Collections/' because it could not be accessed. Aborting watch request...
 [2020.12.20-23.28.54:317][ 41]LogDirectoryWatcher: A directory notification failed for 'D:/Documents/GitHub/clouds/Clouds/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.20-23.32.12:645][335]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.32.21:342][361]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.20-23.32.21:364][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.20-23.32.21:425][361]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_Auto1C03D773F4281160BF0E8C7B1E029D863.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Saved/Autosaves/Game/FlyingBP/Maps/FlyingExampleMap_Auto1.umap'
+[2020.12.20-23.32.21:429][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FlyingBP/Maps/FlyingExampleMap' took 0.069
+[2020.12.20-23.32.21:429][361]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2020.12.20-23.35.24:440][909]LogSlate: Took 0.004929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
