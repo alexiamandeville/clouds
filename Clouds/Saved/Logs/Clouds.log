@@ -25057,3 +25057,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.20-22.47.28:785][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2020.12.20-22.47.28:818][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
 [2020.12.20-22.47.28:895][521]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.12.20-22.47.50:375][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
