@@ -3825,3 +3825,1178 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.21-00.09.10:109][ 32]LogSlate: Window 'Message Log' being destroyed
 [2020.12.21-00.09.10:112][ 32]LogSlate: Window 'Message Log' being destroyed
 [2020.12.21-00.09.11:678][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_SmallGrassBunch_Gold9)
+[2020.12.21-00.09.52:258][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.21-00.09.52:438][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_SpearGrassBunch_Gold7)
+[2020.12.21-00.09.52:649][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_SpearGrassBunch_Gold7)
+[2020.12.21-00.09.53:647][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.21-00.09.54:137][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_DandelionFlowerPatch6)
+[2020.12.21-00.10.12:650][ 65]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.12:871][ 88]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.14:005][223]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.17:324][618]Cmd: DELETE
+[2020.12.21-00.10.17:325][618]Cmd: ACTOR DELETE
+[2020.12.21-00.10.17:340][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.21-00.10.17:344][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.21-00.10.17:347][618]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.12.21-00.10.22:227][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.22:341][216]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.23:517][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.23:532][341]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.23:597][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.26:617][661]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.32:734][362]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.32:769][362]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_DandelionFlowerPatchAC03F648440636D261B5D19435BEB026.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.uasset'
+[2020.12.21-00.10.32:777][362]AssetCheck: New page: Asset Save: Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.32:777][362]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.33:844][490]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.33:857][490]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_DandelionFlowerPatch5C94878C4EF1C5746B4117A50CAF7B7C.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.uasset'
+[2020.12.21-00.10.33:863][490]AssetCheck: New page: Asset Save: Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.33:863][490]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.21-00.10.35:074][620]LogSlate: Window 'Mesh_DandelionFlowerPatch' being destroyed
+[2020.12.21-00.10.35:076][620]LogSlate: Window 'Mesh_DandelionFlowerPatch' being destroyed
+[2020.12.21-00.10.35:082][620]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.10.35:082][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.10.38:053][968]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.38:849][ 49]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.39:311][100]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.39:316][100]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch_Pale.Mesh_DandelionFlowerPatch_Pale
+[2020.12.21-00.10.39:362][100]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.42:008][377]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.43:641][561]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.43:667][561]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_DandelionFlowerPatch_PaleAE8EFBCC45927F77AECE85811C66CBC4.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch_Pale.uasset'
+[2020.12.21-00.10.43:674][561]AssetCheck: New page: Asset Save: Mesh_DandelionFlowerPatch_Pale
+[2020.12.21-00.10.43:674][561]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch_Pale.Mesh_DandelionFlowerPatch_Pale
+[2020.12.21-00.10.45:365][746]LogSlate: Window 'Mesh_DandelionFlowerPatch_Pale' being destroyed
+[2020.12.21-00.10.45:368][746]LogSlate: Window 'Mesh_DandelionFlowerPatch_Pale' being destroyed
+[2020.12.21-00.10.45:374][746]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.10.45:374][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.10.53:687][719]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.54:016][744]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.55:058][866]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.55:064][866]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGold.Mesh_GiantGrassBunch_LightGold
+[2020.12.21-00.10.55:112][866]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.56:949][ 45]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.58:384][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.10.58:415][201]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_GiantGrassBunch_LightGold65EEFCD74F021E5E9D1ACFB8FF49CD47.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGold.uasset'
+[2020.12.21-00.10.58:422][201]AssetCheck: New page: Asset Save: Mesh_GiantGrassBunch_LightGold
+[2020.12.21-00.10.58:422][201]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGold.Mesh_GiantGrassBunch_LightGold
+[2020.12.21-00.10.59:272][295]LogSlate: Window 'Mesh_GiantGrassBunch_LightGold' being destroyed
+[2020.12.21-00.10.59:275][295]LogSlate: Window 'Mesh_GiantGrassBunch_LightGold' being destroyed
+[2020.12.21-00.10.59:281][295]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.10.59:281][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.00:744][462]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.01:281][512]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.01:300][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.01:682][555]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.01:698][555]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGreen.Mesh_GiantGrassBunch_LightGreen
+[2020.12.21-00.11.01:727][555]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.02:898][658]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.04:400][826]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.04:432][826]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_GiantGrassBunch_LightGreenA19409EB4BCC6BA1E84D0EA2C2FDF031.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGreen.uasset'
+[2020.12.21-00.11.04:439][826]AssetCheck: New page: Asset Save: Mesh_GiantGrassBunch_LightGreen
+[2020.12.21-00.11.04:439][826]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGreen.Mesh_GiantGrassBunch_LightGreen
+[2020.12.21-00.11.05:331][920]LogSlate: Window 'Mesh_GiantGrassBunch_LightGreen' being destroyed
+[2020.12.21-00.11.05:334][920]LogSlate: Window 'Mesh_GiantGrassBunch_LightGreen' being destroyed
+[2020.12.21-00.11.05:340][920]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.11.05:340][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.10:161][479]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.10:847][547]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.11:343][605]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.11:365][605]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.Mesh_PlantainPlant
+[2020.12.21-00.11.11:410][605]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.13:357][793]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.15:000][976]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.15:031][976]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_PlantainPlant40B2DEC947463C539B5D2389FFBDB2B6.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.uasset'
+[2020.12.21-00.11.15:039][976]AssetCheck: New page: Asset Save: Mesh_PlantainPlant
+[2020.12.21-00.11.15:039][976]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.Mesh_PlantainPlant
+[2020.12.21-00.11.15:931][ 62]LogSlate: Window 'Mesh_PlantainPlant' being destroyed
+[2020.12.21-00.11.15:934][ 62]LogSlate: Window 'Mesh_PlantainPlant' being destroyed
+[2020.12.21-00.11.15:940][ 62]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.11.15:940][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.17:160][199]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.17:664][250]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.17:997][287]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.19:733][489]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.19:747][489]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.11.19:794][489]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.21:615][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.23:016][826]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.23:047][826]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_PlantainPlant_PaleFCAEBB214990A5B8A8E048B6D9FF7336.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.uasset'
+[2020.12.21-00.11.23:054][826]AssetCheck: New page: Asset Save: Mesh_PlantainPlant_Pale
+[2020.12.21-00.11.23:054][826]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.11.24:142][934]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.26:330][194]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.11.26:333][194]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.11.26:339][194]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.11.26:339][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.30:668][699]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.31:181][752]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.31:813][822]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.33:756][ 50]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.33:762][ 50]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.11.33:809][ 50]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.34:822][137]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.36:357][309]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.36:380][309]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_SmallGrassBunch_Gold35BBAC4F446A8BEA3B1F1EBB3D9B9261.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.uasset'
+[2020.12.21-00.11.36:387][309]AssetCheck: New page: Asset Save: Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.11.36:387][309]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.11.37:296][411]LogSlate: Window 'Mesh_SmallGrassBunch_Gold' being destroyed
+[2020.12.21-00.11.37:299][411]LogSlate: Window 'Mesh_SmallGrassBunch_Gold' being destroyed
+[2020.12.21-00.11.37:304][411]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.11.37:304][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.38:551][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.38:880][578]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.39:406][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.39:413][637]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Green.Mesh_SmallGrassBunch_Green
+[2020.12.21-00.11.39:459][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.41:530][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.42:915][993]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.42:945][993]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_SmallGrassBunch_Green1540819F433F97B43D66ED8779D30AFF.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Green.uasset'
+[2020.12.21-00.11.42:953][993]AssetCheck: New page: Asset Save: Mesh_SmallGrassBunch_Green
+[2020.12.21-00.11.42:953][993]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Green.Mesh_SmallGrassBunch_Green
+[2020.12.21-00.11.43:863][ 96]LogSlate: Window 'Mesh_SmallGrassBunch_Green' being destroyed
+[2020.12.21-00.11.43:865][ 96]LogSlate: Window 'Mesh_SmallGrassBunch_Green' being destroyed
+[2020.12.21-00.11.43:871][ 96]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.11.43:871][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.50:041][813]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.50:579][865]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.50:914][901]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.51:651][987]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.51:663][987]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.11.51:710][987]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.52:738][ 76]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.54:248][245]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.54:281][245]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_SpearGrassBunch_Gold41F7E79F421068D91D3D91AA51CE39DB.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.uasset'
+[2020.12.21-00.11.54:289][245]AssetCheck: New page: Asset Save: Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.11.54:289][245]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.11.55:186][338]LogSlate: Window 'Mesh_SpearGrassBunch_Gold' being destroyed
+[2020.12.21-00.11.55:190][338]LogSlate: Window 'Mesh_SpearGrassBunch_Gold' being destroyed
+[2020.12.21-00.11.55:196][338]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.11.55:196][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.11.56:476][481]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.56:979][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.57:499][584]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.57:513][584]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Green.Mesh_SpearGrassBunch_Green
+[2020.12.21-00.11.57:559][584]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.11.58:797][697]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.00:240][864]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.01:439][  5]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.03:149][199]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.03:182][199]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_SpearGrassBunch_Green810EF00B499BCE0F0B8DFBAE3D7B6947.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Green.uasset'
+[2020.12.21-00.12.03:190][199]AssetCheck: New page: Asset Save: Mesh_SpearGrassBunch_Green
+[2020.12.21-00.12.03:190][199]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Green.Mesh_SpearGrassBunch_Green
+[2020.12.21-00.12.04:128][300]LogSlate: Window 'Mesh_SpearGrassBunch_Green' being destroyed
+[2020.12.21-00.12.04:131][300]LogSlate: Window 'Mesh_SpearGrassBunch_Green' being destroyed
+[2020.12.21-00.12.04:137][300]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.12.04:137][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.12.11:966][210]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.12:496][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.12:515][253]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.13:109][321]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.13:607][378]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.13:628][378]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.Mesh_TallGrassBunch_Gold
+[2020.12.21-00.12.13:675][378]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.15:622][567]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.17:247][758]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.21:380][246]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.21:412][246]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_TallGrassBunch_Gold1A46040C44E68829B4157F8366B092E6.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.uasset'
+[2020.12.21-00.12.21:419][246]AssetCheck: New page: Asset Save: Mesh_TallGrassBunch_Gold
+[2020.12.21-00.12.21:419][246]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.Mesh_TallGrassBunch_Gold
+[2020.12.21-00.12.22:528][364]LogSlate: Window 'Mesh_TallGrassBunch_Gold' being destroyed
+[2020.12.21-00.12.22:531][364]LogSlate: Window 'Mesh_TallGrassBunch_Gold' being destroyed
+[2020.12.21-00.12.22:537][364]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.12.22:537][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.12.23:633][489]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.24:145][532]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.24:595][583]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.24:612][583]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Green.Mesh_TallGrassBunch_Green
+[2020.12.21-00.12.24:641][583]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.25:637][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.28:023][933]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.28:045][933]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_TallGrassBunch_Green7468FF964F021AF26E31E4891B79B26B.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Green.uasset'
+[2020.12.21-00.12.28:053][933]AssetCheck: New page: Asset Save: Mesh_TallGrassBunch_Green
+[2020.12.21-00.12.28:053][933]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Green.Mesh_TallGrassBunch_Green
+[2020.12.21-00.12.28:943][ 33]LogSlate: Window 'Mesh_TallGrassBunch_Green' being destroyed
+[2020.12.21-00.12.28:947][ 33]LogSlate: Window 'Mesh_TallGrassBunch_Green' being destroyed
+[2020.12.21-00.12.28:953][ 33]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.12.28:953][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.12.32:907][496]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.33:495][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.34:213][632]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.34:230][632]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_DrabGreen.Mesh_TallGrassTuft_DrabGreen
+[2020.12.21-00.12.34:274][632]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.35:529][744]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.36:980][908]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.37:011][908]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_TallGrassTuft_DrabGreen7BC782FD4DEB92A727516B941E91F5CD.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_DrabGreen.uasset'
+[2020.12.21-00.12.37:021][908]AssetCheck: New page: Asset Save: Mesh_TallGrassTuft_DrabGreen
+[2020.12.21-00.12.37:021][908]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_DrabGreen.Mesh_TallGrassTuft_DrabGreen
+[2020.12.21-00.12.37:978][  6]LogSlate: Window 'Mesh_TallGrassTuft_DrabGreen' being destroyed
+[2020.12.21-00.12.37:981][  6]LogSlate: Window 'Mesh_TallGrassTuft_DrabGreen' being destroyed
+[2020.12.21-00.12.37:987][  6]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.12.37:987][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.12.39:123][135]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.39:562][173]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.40:132][240]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.40:144][240]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.12.40:174][240]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.41:346][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.42:670][493]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.42:693][493]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_TallGrassTuft_GoldenBrown0B2183CB4C5BF232E3BAD1A853BB68A5.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.uasset'
+[2020.12.21-00.12.42:701][493]AssetCheck: New page: Asset Save: Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.12.42:701][493]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.12.43:511][582]LogSlate: Window 'Mesh_TallGrassTuft_GoldenBrown' being destroyed
+[2020.12.21-00.12.43:514][582]LogSlate: Window 'Mesh_TallGrassTuft_GoldenBrown' being destroyed
+[2020.12.21-00.12.43:518][582]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.12.43:519][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.12.51:298][482]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.51:777][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.52:463][598]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.52:478][598]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.12.52:523][598]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.53:986][729]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.55:431][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.55:461][884]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_WheatGrassBunch_Gold1938E0564FF7979C3650168AFC4781E6.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.uasset'
+[2020.12.21-00.12.55:469][884]AssetCheck: New page: Asset Save: Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.12.55:469][884]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.12.56:399][978]LogSlate: Window 'Mesh_WheatGrassBunch_Gold' being destroyed
+[2020.12.21-00.12.56:402][978]LogSlate: Window 'Mesh_WheatGrassBunch_Gold' being destroyed
+[2020.12.21-00.12.56:408][978]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.12.56:408][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.12.57:447][ 93]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.57:877][132]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.58:396][190]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.58:410][190]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Green.Mesh_WheatGrassBunch_Green
+[2020.12.21-00.12.58:457][190]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.12.59:227][249]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.00:779][417]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.00:811][417]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_WheatGrassBunch_Green6D9EB600455F5C2CE03D9D8064C77F5A.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Green.uasset'
+[2020.12.21-00.13.00:818][417]AssetCheck: New page: Asset Save: Mesh_WheatGrassBunch_Green
+[2020.12.21-00.13.00:818][417]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Green.Mesh_WheatGrassBunch_Green
+[2020.12.21-00.13.02:926][649]LogSlate: Window 'Mesh_WheatGrassBunch_Green' being destroyed
+[2020.12.21-00.13.02:929][649]LogSlate: Window 'Mesh_WheatGrassBunch_Green' being destroyed
+[2020.12.21-00.13.02:934][649]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.13.02:935][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.13.06:688][ 85]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.07:270][152]MapCheck: New page: Map Check
+[2020.12.21-00.13.07:278][152]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.07:282][152]LightingResults: New page: Lighting Build - Dec 20, 2020, 8:13:07 AM
+[2020.12.21-00.13.07:288][152]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.21-00.13.07:291][152]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.21-00.13.07:291][152]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.21-00.13.07:291][152]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.21-00.13.07:291][152]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19156
+[2020.12.21-00.13.11:807][152]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.21-00.13.11:807][152]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.21-00.13.11:807][152]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.21-00.13.11:807][152]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.21-00.13.11:807][152]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.21-00.13.11:910][152]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.11:912][152]LogEditorBuildUtils: Build time 0:04
+[2020.12.21-00.13.11:944][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.21-00.13.37:907][485]Job is a success!
+[2020.12.21-00.13.37:928][487]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.37:930][487]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.056s
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:          1: 6.2% covering 9.4% of volume
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:          2: 92.8% covering 2.2% of volume
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.21-00.13.38:099][487]LogVolumetricLightmapImport:          FlyingExampleMap 			 389 bricks 	 100.0% (Persistent Level)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.12.21-00.13.40:205][487]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.12.21-00.13.40:397][487]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 512X256)
+[2020.12.21-00.13.40:397][487]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.12.21-00.13.40:397][487]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.12.21-00.13.40:397][487]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.12.21-00.13.40:397][487]Lightmass on KAT-PC: 27.9 sec total, 121 ms importing, 86 ms setup, 2.37 sec photons, 25.2 sec processing, 0 ms extra exporting [2971/2971 mappings]. Threads: 2:57 min total, 2:06 min processing.
+[2020.12.21-00.13.40:398][487]LogStaticLightingSystem: FlyingExampleMap_BuiltData storing lightmap data for 938 meshes in 10 LightmapResourceClusters (93.8 Meshes per cluster).
+[2020.12.21-00.13.40:428][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.21-00.13.40:440][487]LogStaticLightingSystem: Illumination: 33.1 sec (1.68 sec encoding lightmaps, 168 ms encoding shadowmaps)
+[2020.12.21-00.13.40:440][487]LogStaticLightingSystem: Lightmap texture memory:  19.3 MB (19.3 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.12.21-00.13.40:440][487]LogStaticLightingSystem: Shadowmap texture memory: 4.2 MB (4.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.12.21-00.13.40:822][487]DumpUnbuiltLightIteractions
+[2020.12.21-00.13.40:822][487]Lights with unbuilt interactions: 0
+[2020.12.21-00.13.40:822][487]
+[2020.12.21-00.13.40:822][487]Primitives with unbuilt interactions: 0
+[2020.12.21-00.13.40:824][487]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.40:934][487]LogTexture: Display: Building textures: NewReflectionComponentTexture9ACF3CA346935F1EE16465B6081C6F1E (BGRA8, 128X128)
+[2020.12.21-00.13.40:944][487]LogTexture: Display: Building textures: NewReflectionComponentTextureD0D59F1F4CA6D2F0A9F0ADBCEAE2D240 (BGRA8, 128X128)
+[2020.12.21-00.13.40:952][487]LogTexture: Display: Building textures: NewReflectionComponentTextureD7CBE4C74E12946C4581EE9BCAB13803 (BGRA8, 128X128)
+[2020.12.21-00.13.40:990][488]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.21-00.13.40:990][488]MapCheck: New page: FlyingExampleMap - Dec 20, 2020, 8:13:40 AM
+[2020.12.21-00.13.40:990][488]MapCheck: Warning: Ground Ground is in the same location as Ground_61 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Ground_61 Ground_61 is in the same location as Ground 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_27 Collision enabled but StaticMesh (Mesh_PlantainPlant) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale_30 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale2 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale3 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale4 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale5 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale6 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale7 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale8 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale9 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale10 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale11 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale12 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale13 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale14 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale15 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale16 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale17 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale18 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale19 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale20 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale21 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:991][488]MapCheck: Warning: Mesh_PlantainPlant_Pale22 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale23 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale24 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale25 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale26 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale27 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale28 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale29 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale30 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale31 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale32 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale33 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale34 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale35 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale36 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale37 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale38 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale39 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale40 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale41 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale42 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale43 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale44 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:992][488]MapCheck: Warning: Mesh_PlantainPlant_Pale45 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale46 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale47 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale48 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale49 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale50 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale51 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale52 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale53 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale54 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale55 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale56 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale57 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale58 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale59 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale60 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale61 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale62 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale63 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale64 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale65 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale66 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale67 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale68 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale69 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:993][488]MapCheck: Warning: Mesh_PlantainPlant_Pale70 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale71 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale72 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale73 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale74 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale75 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale76 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale77 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale78 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale79 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale80 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale81 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale82 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale83 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale84 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale85 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale86 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale87 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale88 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale89 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale90 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale91 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale92 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:994][488]MapCheck: Warning: Mesh_PlantainPlant_Pale93 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale94 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale95 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale96 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale97 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale98 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale99 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale100 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale101 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale102 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale103 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale104 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale105 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale106 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale107 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale108 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale109 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale110 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale111 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale112 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale113 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale114 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale115 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale116 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:995][488]MapCheck: Warning: Mesh_PlantainPlant_Pale117 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale118 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale119 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale120 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale121 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale122 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale123 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale124 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale125 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale126 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale127 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale128 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale129 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale130 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale131 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale132 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale133 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale134 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale135 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale136 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale137 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale138 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:996][488]MapCheck: Warning: Mesh_PlantainPlant_Pale139 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:997][488]MapCheck: Warning: Mesh_PlantainPlant_Pale140 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:997][488]MapCheck: Warning: Mesh_PlantainPlant_Pale141 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.13.40:997][488]MapCheck: Map check complete: 0 Error(s), 144 Warning(s), took 7.013ms to complete.
+[2020.12.21-00.13.40:998][488]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.45:205][942]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.13.51:198][647]LogSlate: Window 'Message Log' being destroyed
+[2020.12.21-00.13.51:201][647]LogSlate: Window 'Message Log' being destroyed
+[2020.12.21-00.14.03:839][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.21-00.14.04:519][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.21-00.14.04:931][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.12.21-00.14.05:026][284]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.12.21-00.14.09:590][826]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2020.12.21-00.14.09:594][826]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.14.12:400][110]Cmd: DELETE
+[2020.12.21-00.14.12:400][110]Cmd: ACTOR DELETE
+[2020.12.21-00.14.12:416][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.21-00.14.12:448][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.12.21-00.14.12:450][110]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.12.21-00.14.18:505][834]Cmd: DELETE
+[2020.12.21-00.14.18:506][834]Cmd: ACTOR DELETE
+[2020.12.21-00.14.18:514][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.21-00.14.18:516][834]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2020.12.21-00.14.38:784][246]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.14.38:791][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.21-00.14.38:795][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.21-00.14.38:940][246]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap0018ACF749D2CA24B74B67885A7BE36C.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.21-00.14.38:955][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.21-00.14.39:158][246]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_BuiltDataADB4DAC044973A38BBE5749E120828CB.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.21-00.14.39:166][246]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.21-00.14.39:166][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.12.21-00.14.39:166][246]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.12.21-00.14.40:151][356]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.14.40:606][404]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.14.40:984][448]MapCheck: New page: Map Check
+[2020.12.21-00.14.40:990][448]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.14.40:994][448]LightingResults: New page: Lighting Build - Dec 20, 2020, 8:14:40 AM
+[2020.12.21-00.14.41:004][448]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.21-00.14.41:006][448]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.21-00.14.41:006][448]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.21-00.14.41:006][448]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.21-00.14.41:006][448]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19156
+[2020.12.21-00.14.45:519][448]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.21-00.14.45:519][448]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.21-00.14.45:519][448]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.21-00.14.45:519][448]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.21-00.14.45:519][448]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.21-00.14.45:620][448]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.14.45:622][448]LogEditorBuildUtils: Build time 0:04
+[2020.12.21-00.14.45:661][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.21-00.15.07:766][432]Job is a success!
+[2020.12.21-00.15.07:840][433]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.07:842][433]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.055s
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:          1: 6.2% covering 9.4% of volume
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:          2: 92.8% covering 2.2% of volume
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.21-00.15.08:027][433]LogVolumetricLightmapImport:          FlyingExampleMap 			 390 bricks 	 100.0% (Persistent Level)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.12.21-00.15.10:087][433]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.12.21-00.15.10:280][433]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2020.12.21-00.15.10:281][433]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2020.12.21-00.15.10:281][433]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2020.12.21-00.15.10:281][433]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X1024)
+[2020.12.21-00.15.10:281][433]Lightmass on KAT-PC: 24.0 sec total, 121 ms importing, 84 ms setup, 2.06 sec photons, 21.7 sec processing, 0 ms extra exporting [2970/2970 mappings]. Threads: 2:32 min total, 1:46 min processing.
+[2020.12.21-00.15.10:281][433]LogStaticLightingSystem: FlyingExampleMap_BuiltData storing lightmap data for 937 meshes in 10 LightmapResourceClusters (93.7 Meshes per cluster).
+[2020.12.21-00.15.10:309][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.21-00.15.10:325][433]LogStaticLightingSystem: Illumination: 29.3 sec (1.65 sec encoding lightmaps, 168 ms encoding shadowmaps)
+[2020.12.21-00.15.10:325][433]LogStaticLightingSystem: Lightmap texture memory:  19.3 MB (19.3 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.12.21-00.15.10:325][433]LogStaticLightingSystem: Shadowmap texture memory: 4.1 MB (4.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.12.21-00.15.10:532][433]DumpUnbuiltLightIteractions
+[2020.12.21-00.15.10:532][433]Lights with unbuilt interactions: 0
+[2020.12.21-00.15.10:532][433]
+[2020.12.21-00.15.10:532][433]Primitives with unbuilt interactions: 0
+[2020.12.21-00.15.10:534][433]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.10:673][433]LogTexture: Display: Building textures: NewReflectionComponentTexture9ACF3CA346935F1EE16465B6081C6F1E (BGRA8, 128X128)
+[2020.12.21-00.15.10:684][433]LogTexture: Display: Building textures: NewReflectionComponentTextureD0D59F1F4CA6D2F0A9F0ADBCEAE2D240 (BGRA8, 128X128)
+[2020.12.21-00.15.10:695][433]LogTexture: Display: Building textures: NewReflectionComponentTextureD7CBE4C74E12946C4581EE9BCAB13803 (BGRA8, 128X128)
+[2020.12.21-00.15.10:771][434]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.21-00.15.10:771][434]MapCheck: New page: FlyingExampleMap - Dec 20, 2020, 8:15:10 AM
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_27 Collision enabled but StaticMesh (Mesh_PlantainPlant) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale_30 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale2 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale3 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale4 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale5 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale6 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale7 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale8 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale9 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale10 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale11 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:772][434]MapCheck: Warning: Mesh_PlantainPlant_Pale12 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale13 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale14 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale15 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale16 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale17 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale18 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale19 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale20 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale21 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale22 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale23 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale24 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale25 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale26 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale27 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale28 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale29 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale30 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale31 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale32 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale33 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale34 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale35 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale36 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:773][434]MapCheck: Warning: Mesh_PlantainPlant_Pale37 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale38 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale39 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale40 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale41 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale42 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale43 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale44 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale45 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale46 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale47 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale48 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale49 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale50 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale51 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale52 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale53 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale54 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale55 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale56 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale57 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale58 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale59 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale60 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale61 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:774][434]MapCheck: Warning: Mesh_PlantainPlant_Pale62 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale63 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale64 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale65 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale66 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale67 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale68 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale69 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale70 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale71 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale72 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale73 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale74 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale75 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale76 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale77 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale78 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale79 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale80 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale81 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale82 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale83 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale84 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale85 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale86 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale87 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:775][434]MapCheck: Warning: Mesh_PlantainPlant_Pale88 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale89 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale90 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale91 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale92 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale93 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale94 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale95 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale96 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale97 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale98 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale99 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale100 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale101 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale102 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale103 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale104 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale105 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale106 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale107 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale108 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale109 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale110 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale111 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:776][434]MapCheck: Warning: Mesh_PlantainPlant_Pale112 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale113 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale114 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale115 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale116 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale117 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale118 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale119 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale120 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale121 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale122 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale123 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale124 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale125 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale126 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale127 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale128 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale129 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale130 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale131 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale132 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale133 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale134 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale135 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:777][434]MapCheck: Warning: Mesh_PlantainPlant_Pale136 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:778][434]MapCheck: Warning: Mesh_PlantainPlant_Pale137 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:778][434]MapCheck: Warning: Mesh_PlantainPlant_Pale138 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:778][434]MapCheck: Warning: Mesh_PlantainPlant_Pale139 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:778][434]MapCheck: Warning: Mesh_PlantainPlant_Pale140 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:778][434]MapCheck: Warning: Mesh_PlantainPlant_Pale141 Collision enabled but StaticMesh (Mesh_PlantainPlant_Pale) has no simple or complex collision. 
+[2020.12.21-00.15.10:778][434]MapCheck: Map check complete: 0 Error(s), 142 Warning(s), took 6.748ms to complete.
+[2020.12.21-00.15.10:779][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.14:985][887]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.31:288][830]LogSlate: Window 'Message Log' being destroyed
+[2020.12.21-00.15.31:291][830]LogSlate: Window 'Message Log' being destroyed
+[2020.12.21-00.15.40:036][873]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.40:722][941]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.40:757][944]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.41:565][ 38]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.41:570][ 38]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.15.41:617][ 38]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.43:072][176]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.46:730][610]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.51:373][144]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.52:053][225]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.52:498][278]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.53:778][431]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.55:089][588]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.55:136][593]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.55:209][601]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.15.55:630][651]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.00:241][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.07:352][ 35]Cmd: TRANSACTION UNDO
+[2020.12.21-00.16.07:352][ 35]LogEditorTransaction: Undo Create Convex Collision
+[2020.12.21-00.16.07:423][ 35]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.07:771][ 45]Cmd: TRANSACTION UNDO
+[2020.12.21-00.16.07:771][ 45]LogEditorTransaction: Undo Create Sphere Collision
+[2020.12.21-00.16.11:582][470]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.16:439][ 18]Cmd: TRANSACTION UNDO
+[2020.12.21-00.16.16:439][ 18]LogEditorTransaction: Undo Create Capsule Collision
+[2020.12.21-00.16.16:508][ 18]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.17:540][ 98]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.20:590][452]Cmd: TRANSACTION UNDO
+[2020.12.21-00.16.20:590][452]LogEditorTransaction: Undo Create Box Collision
+[2020.12.21-00.16.20:660][452]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.21:091][464]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.28:730][349]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.30:280][534]LogStaticMesh: Building static mesh Mesh_PlantainPlant_Pale...
+[2020.12.21-00.16.30:281][534]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.30:291][534]LogStaticMesh: Built static mesh [0.01s] /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.16.33:656][922]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.36:004][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.43:371][ 55]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.43:408][ 55]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_PlantainPlant_PaleD272E40649B1B3CEED259FA914C6BE5A.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.uasset'
+[2020.12.21-00.16.43:414][ 55]AssetCheck: New page: Asset Save: Mesh_PlantainPlant_Pale
+[2020.12.21-00.16.43:414][ 55]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.16.44:461][173]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.16.44:463][173]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.16.44:469][173]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.16.44:469][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.16.46:704][427]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.47:445][513]MapCheck: New page: Map Check
+[2020.12.21-00.16.47:454][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.47:458][513]LightingResults: New page: Lighting Build - Dec 20, 2020, 8:16:47 AM
+[2020.12.21-00.16.47:465][513]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.21-00.16.47:467][513]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.21-00.16.47:467][513]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.21-00.16.47:468][513]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.21-00.16.47:468][513]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19156
+[2020.12.21-00.16.51:987][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.21-00.16.51:987][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.21-00.16.51:987][513]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.21-00.16.51:987][513]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.21-00.16.51:987][513]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.21-00.16.52:093][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.16.52:095][513]LogEditorBuildUtils: Build time 0:04
+[2020.12.21-00.16.52:151][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.21-00.17.14:641][531]Job is a success!
+[2020.12.21-00.17.14:722][532]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.14:724][532]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.057s
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:          1: 6.2% covering 9.4% of volume
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:          2: 92.8% covering 2.2% of volume
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.21-00.17.14:907][532]LogVolumetricLightmapImport:          FlyingExampleMap 			 390 bricks 	 100.0% (Persistent Level)
+[2020.12.21-00.17.16:771][532]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.12.21-00.17.16:771][532]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.12.21-00.17.16:771][532]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.12.21-00.17.16:771][532]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:771][532]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.12.21-00.17.16:772][532]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.12.21-00.17.16:965][532]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2020.12.21-00.17.16:965][532]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X1024)
+[2020.12.21-00.17.16:965][532]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 1024X1024)
+[2020.12.21-00.17.16:965][532]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X1024)
+[2020.12.21-00.17.16:965][532]Lightmass on KAT-PC: 24.2 sec total, 125 ms importing, 84 ms setup, 2.04 sec photons, 21.9 sec processing, 0 ms extra exporting [2970/2970 mappings]. Threads: 2:33 min total, 1:48 min processing.
+[2020.12.21-00.17.16:966][532]LogStaticLightingSystem: FlyingExampleMap_BuiltData storing lightmap data for 937 meshes in 10 LightmapResourceClusters (93.7 Meshes per cluster).
+[2020.12.21-00.17.16:994][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.21-00.17.17:007][532]LogStaticLightingSystem: Illumination: 29.5 sec (1.45 sec encoding lightmaps, 166 ms encoding shadowmaps)
+[2020.12.21-00.17.17:008][532]LogStaticLightingSystem: Lightmap texture memory:  19.3 MB (19.3 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.12.21-00.17.17:008][532]LogStaticLightingSystem: Shadowmap texture memory: 4.1 MB (4.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.12.21-00.17.18:021][532]DumpUnbuiltLightIteractions
+[2020.12.21-00.17.18:022][532]Lights with unbuilt interactions: 0
+[2020.12.21-00.17.18:022][532]
+[2020.12.21-00.17.18:022][532]Primitives with unbuilt interactions: 0
+[2020.12.21-00.17.18:023][532]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.18:124][532]LogTexture: Display: Building textures: NewReflectionComponentTexture9ACF3CA346935F1EE16465B6081C6F1E (BGRA8, 128X128)
+[2020.12.21-00.17.18:131][532]LogTexture: Display: Building textures: NewReflectionComponentTextureD0D59F1F4CA6D2F0A9F0ADBCEAE2D240 (BGRA8, 128X128)
+[2020.12.21-00.17.18:139][532]LogTexture: Display: Building textures: NewReflectionComponentTextureD7CBE4C74E12946C4581EE9BCAB13803 (BGRA8, 128X128)
+[2020.12.21-00.17.18:174][533]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.21-00.17.18:174][533]MapCheck: New page: FlyingExampleMap - Dec 20, 2020, 8:17:18 AM
+[2020.12.21-00.17.18:175][533]MapCheck: Warning: Mesh_PlantainPlant_27 Collision enabled but StaticMesh (Mesh_PlantainPlant) has no simple or complex collision. 
+[2020.12.21-00.17.18:176][533]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2.71ms to complete.
+[2020.12.21-00.17.18:178][533]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.22:364][983]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.36:455][673]LogSlate: Window 'Message Log' being destroyed
+[2020.12.21-00.17.36:459][673]LogSlate: Window 'Message Log' being destroyed
+[2020.12.21-00.17.37:864][832]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.39:051][959]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.39:478][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.39:483][  8]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.Mesh_PlantainPlant
+[2020.12.21-00.17.39:530][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.41:820][242]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.44:637][565]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.45:883][710]LogEditorTransaction: Undo Create Box Collision
+[2020.12.21-00.17.45:952][710]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.46:272][719]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.48:136][921]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.48:157][921]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_PlantainPlant137BDEE94D5EB3157AFDF5B144D5ECBA.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.uasset'
+[2020.12.21-00.17.48:165][921]AssetCheck: New page: Asset Save: Mesh_PlantainPlant
+[2020.12.21-00.17.48:165][921]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant.Mesh_PlantainPlant
+[2020.12.21-00.17.49:002][ 15]LogSlate: Window 'Mesh_PlantainPlant' being destroyed
+[2020.12.21-00.17.49:004][ 15]LogSlate: Window 'Mesh_PlantainPlant' being destroyed
+[2020.12.21-00.17.49:010][ 15]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.17.49:010][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.17.51:494][302]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.52:117][374]MapCheck: New page: Map Check
+[2020.12.21-00.17.52:123][374]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.52:126][374]LightingResults: New page: Lighting Build - Dec 20, 2020, 8:17:52 AM
+[2020.12.21-00.17.52:132][374]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.21-00.17.52:135][374]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.21-00.17.52:135][374]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.21-00.17.52:135][374]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.21-00.17.52:135][374]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19156
+[2020.12.21-00.17.56:648][374]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.21-00.17.56:648][374]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.21-00.17.56:648][374]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.21-00.17.56:648][374]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.21-00.17.56:648][374]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.21-00.17.56:746][374]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.17.56:748][374]LogEditorBuildUtils: Build time 0:04
+[2020.12.21-00.17.56:796][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.21-00.18.19:245][387]Job is a success!
+[2020.12.21-00.18.19:335][388]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.18.19:337][388]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.056s
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:          1: 6.2% covering 9.4% of volume
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:          2: 92.8% covering 2.2% of volume
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.21-00.18.19:506][388]LogVolumetricLightmapImport:          FlyingExampleMap 			 390 bricks 	 100.0% (Persistent Level)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:391][388]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.12.21-00.18.21:392][388]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.12.21-00.18.21:582][388]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2020.12.21-00.18.21:582][388]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X1024)
+[2020.12.21-00.18.21:582][388]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X1024)
+[2020.12.21-00.18.21:583][388]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X1024)
+[2020.12.21-00.18.21:583][388]Lightmass on KAT-PC: 24.2 sec total, 122 ms importing, 87 ms setup, 2.04 sec photons, 21.9 sec processing, 0 ms extra exporting [2970/2970 mappings]. Threads: 2:33 min total, 1:47 min processing.
+[2020.12.21-00.18.21:583][388]LogStaticLightingSystem: FlyingExampleMap_BuiltData storing lightmap data for 937 meshes in 10 LightmapResourceClusters (93.7 Meshes per cluster).
+[2020.12.21-00.18.21:610][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.21-00.18.21:625][388]LogStaticLightingSystem: Illumination: 29.4 sec (1.48 sec encoding lightmaps, 166 ms encoding shadowmaps)
+[2020.12.21-00.18.21:625][388]LogStaticLightingSystem: Lightmap texture memory:  19.3 MB (19.3 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.12.21-00.18.21:625][388]LogStaticLightingSystem: Shadowmap texture memory: 4.1 MB (4.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.12.21-00.18.21:627][388]DumpUnbuiltLightIteractions
+[2020.12.21-00.18.21:627][388]Lights with unbuilt interactions: 0
+[2020.12.21-00.18.21:627][388]
+[2020.12.21-00.18.21:627][388]Primitives with unbuilt interactions: 0
+[2020.12.21-00.18.21:628][388]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.18.21:736][388]LogTexture: Display: Building textures: NewReflectionComponentTexture9ACF3CA346935F1EE16465B6081C6F1E (BGRA8, 128X128)
+[2020.12.21-00.18.21:745][388]LogTexture: Display: Building textures: NewReflectionComponentTextureD0D59F1F4CA6D2F0A9F0ADBCEAE2D240 (BGRA8, 128X128)
+[2020.12.21-00.18.21:752][388]LogTexture: Display: Building textures: NewReflectionComponentTextureD7CBE4C74E12946C4581EE9BCAB13803 (BGRA8, 128X128)
+[2020.12.21-00.18.21:787][389]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.21-00.18.21:787][389]MapCheck: New page: FlyingExampleMap - Dec 20, 2020, 8:18:21 AM
+[2020.12.21-00.18.21:789][389]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.608ms to complete.
+[2020.12.21-00.18.40:669][640]LogRenderer: Reallocating scene render targets to support 1308x580 Format 10 NumSamples 1 (Frame:216819).
+[2020.12.21-00.18.57:497][646]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.19.02:190][195]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.19.02:309][207]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.21-00.19.11:463][304]LogActorFactory: Actor Factory created Mesh_DandelionFlowerPatch
+[2020.12.21-00.19.11:956][360]Cmd: DELETE
+[2020.12.21-00.19.11:956][360]Cmd: ACTOR DELETE
+[2020.12.21-00.19.11:971][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.21-00.19.11:976][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.21-00.19.11:980][360]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.12.21-00.19.38:631][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PlantainPlant_Pale2)
+[2020.12.21-00.19.45:030][431]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.19.45:047][431]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.21-00.19.45:092][431]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.19.58:432][909]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.01:981][264]LogTexture: Display: Building textures: T_Explosion_00 (AutoDXT, 256X256)
+[2020.12.21-00.20.01:981][264]LogTexture: Display: Building textures: T_Explosion_Disolve (BGRA8, 256X256)
+[2020.12.21-00.20.01:981][264]LogTexture: Display: Building textures: T_Land_Smoke_00 (AutoDXT, 512X256)
+[2020.12.21-00.20.01:981][264]LogTexture: Display: Building textures: T_Round_Disolve (BGRA8, 512X512)
+[2020.12.21-00.20.01:981][264]LogMaterial: Display: Missing cached shader map for material M_Cartoon_Distort_Translucent, compiling. 
+[2020.12.21-00.20.02:001][264]LogStaticMesh: Building static mesh Mesh_DandelionFlowerPatch...
+[2020.12.21-00.20.02:002][264]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.02:010][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.12.21-00.20.02:010][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.12.21-00.20.02:010][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.21-00.20.02:010][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.21-00.20.02:019][264]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.21-00.20.03:302][381]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.06:172][654]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.06:197][654]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_DandelionFlowerPatchDCD928484BF13A4001528F8CCA48D38E.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.uasset'
+[2020.12.21-00.20.06:204][654]AssetCheck: New page: Asset Save: Mesh_DandelionFlowerPatch
+[2020.12.21-00.20.06:204][654]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/Dandelions/DandelionFlowerPatch/Mesh_DandelionFlowerPatch.Mesh_DandelionFlowerPatch
+[2020.12.21-00.20.08:554][803]LogSlate: Window 'Mesh_DandelionFlowerPatch' being destroyed
+[2020.12.21-00.20.08:557][803]LogSlate: Window 'Mesh_DandelionFlowerPatch' being destroyed
+[2020.12.21-00.20.08:563][803]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.20.08:563][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.20.09:318][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_TallGrassBunch_Gold)
+[2020.12.21-00.20.11:947][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_TallGrassBunch_Gold)
+[2020.12.21-00.20.12:036][204]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Ground)
+[2020.12.21-00.20.12:610][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_TallGrassBunch_Gold)
+[2020.12.21-00.20.27:025][955]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.27:612][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.28:072][ 61]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.28:078][ 61]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGold.Mesh_GiantGrassBunch_LightGold
+[2020.12.21-00.20.28:108][ 61]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.29:286][156]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.30:993][321]LogTexture: Display: Building textures: T_Fire_Trail_Mask (AutoDXT, 128X128)
+[2020.12.21-00.20.30:993][321]LogTexture: Display: Building textures: T_Fire_Trail_00 (BGRA8, 512X256)
+[2020.12.21-00.20.30:993][321]LogMaterial: Display: Missing cached shader map for material M_Cartoon_Distort2, compiling. 
+[2020.12.21-00.20.31:008][321]LogStaticMesh: Building static mesh Mesh_GiantGrassBunch_LightGold...
+[2020.12.21-00.20.31:009][321]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.31:026][321]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.12.21-00.20.31:027][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.12.21-00.20.31:027][321]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.21-00.20.31:027][321]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.21-00.20.31:033][321]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/GiantGrassBunch/Mesh_GiantGrassBunch_LightGold.Mesh_GiantGrassBunch_LightGold
+[2020.12.21-00.20.32:029][395]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.34:275][559]LogSlate: Window 'Mesh_GiantGrassBunch_LightGold' being destroyed
+[2020.12.21-00.20.34:278][559]LogSlate: Window 'Mesh_GiantGrassBunch_LightGold' being destroyed
+[2020.12.21-00.20.34:284][559]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.20.34:284][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.20.39:357][ 12]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.39:727][ 40]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.40:707][153]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.40:729][153]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.20.40:774][153]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.42:321][257]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.45:328][530]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.46:118][594]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.47:718][739]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.50:218][968]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.20.50:221][968]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.20.50:227][968]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.20.50:227][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.20.51:390][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_SmallGrassBunch_Gold4)
+[2020.12.21-00.20.57:423][688]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.58:510][801]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.59:104][869]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.20.59:109][869]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.20.59:156][869]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.00:159][934]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.00:198][934]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_PlantainPlant_Pale076B40AD4C6ED38CC6585FB5397E8785.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.uasset'
+[2020.12.21-00.21.00:206][934]AssetCheck: New page: Asset Save: Mesh_PlantainPlant_Pale
+[2020.12.21-00.21.00:206][934]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.21.01:066][  9]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.21.01:069][  9]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.21.01:075][  9]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.21.01:075][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.21.05:846][478]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.06:261][514]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.06:765][569]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.06:777][569]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.21.06:822][569]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.07:930][638]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.08:936][739]LogStaticMesh: Building static mesh Mesh_SmallGrassBunch_Gold...
+[2020.12.21-00.21.08:937][739]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.08:946][739]LogStaticMesh: Built static mesh [0.01s] /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.21.09:472][770]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.11:426][927]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.11:460][927]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_SmallGrassBunch_Gold5C7022504A47D9AD156CD69419CC41BA.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.uasset'
+[2020.12.21-00.21.11:466][927]AssetCheck: New page: Asset Save: Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.21.11:466][927]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/SmallGrassBunch/Mesh_SmallGrassBunch_Gold.Mesh_SmallGrassBunch_Gold
+[2020.12.21-00.21.12:670][ 22]LogSlate: Window 'Mesh_SmallGrassBunch_Gold' being destroyed
+[2020.12.21-00.21.12:673][ 22]LogSlate: Window 'Mesh_SmallGrassBunch_Gold' being destroyed
+[2020.12.21-00.21.12:679][ 22]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.21.12:679][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.21.18:431][499]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.18:876][539]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.19:371][595]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.19:376][595]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.21.19:423][595]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.20:613][662]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.21:511][753]LogTexture: Display: Building textures: T_Torch_Fire_01 (BGRA8, 128X128)
+[2020.12.21-00.21.21:511][753]LogTexture: Display: Building textures: T_Spark_Trail (BGRA8, 64X256)
+[2020.12.21-00.21.21:511][753]LogMaterial: Display: Missing cached shader map for material M_Cartoon_Distort, compiling. 
+[2020.12.21-00.21.21:525][753]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.12.21-00.21.21:525][753]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.12.21-00.21.21:525][753]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.21-00.21.21:525][753]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.21-00.21.21:526][753]LogStaticMesh: Building static mesh Mesh_SpearGrassBunch_Gold...
+[2020.12.21-00.21.21:527][753]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.21:548][753]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.21.22:082][777]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.23:717][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.23:744][872]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_SpearGrassBunch_Gold8765A34C445495C12CC65CA7ED9CFB48.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.uasset'
+[2020.12.21-00.21.23:752][872]AssetCheck: New page: Asset Save: Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.21.23:752][872]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/SpearGrass/SpearGrassBunch/Mesh_SpearGrassBunch_Gold.Mesh_SpearGrassBunch_Gold
+[2020.12.21-00.21.24:639][934]LogSlate: Window 'Mesh_SpearGrassBunch_Gold' being destroyed
+[2020.12.21-00.21.24:642][934]LogSlate: Window 'Mesh_SpearGrassBunch_Gold' being destroyed
+[2020.12.21-00.21.24:648][934]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.21.24:648][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.21.26:157][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_TallGrassBunch_Gold)
+[2020.12.21-00.21.31:597][460]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.32:025][497]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.32:047][498]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.32:587][562]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.32:592][562]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.Mesh_TallGrassBunch_Gold
+[2020.12.21-00.21.32:640][562]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.33:738][613]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.34:703][715]LogStaticMesh: Building static mesh Mesh_TallGrassBunch_Gold...
+[2020.12.21-00.21.34:704][715]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.34:730][715]LogStaticMesh: Built static mesh [0.03s] /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.Mesh_TallGrassBunch_Gold
+[2020.12.21-00.21.35:355][747]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.37:727][941]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.37:758][941]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_TallGrassBunch_Gold5B6B726A42FDA783A41988B4D9AB7240.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.uasset'
+[2020.12.21-00.21.37:765][941]AssetCheck: New page: Asset Save: Mesh_TallGrassBunch_Gold
+[2020.12.21-00.21.37:765][941]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassBunch/Mesh_TallGrassBunch_Gold.Mesh_TallGrassBunch_Gold
+[2020.12.21-00.21.38:716][  7]LogSlate: Window 'Mesh_TallGrassBunch_Gold' being destroyed
+[2020.12.21-00.21.38:719][  7]LogSlate: Window 'Mesh_TallGrassBunch_Gold' being destroyed
+[2020.12.21-00.21.38:725][  7]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.21.38:725][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.21.43:078][329]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.43:476][353]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.43:954][407]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.43:975][407]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_DrabGreen.Mesh_TallGrassTuft_DrabGreen
+[2020.12.21-00.21.44:022][407]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.45:659][502]LogSlate: Window 'Mesh_TallGrassTuft_DrabGreen' being destroyed
+[2020.12.21-00.21.45:662][502]LogSlate: Window 'Mesh_TallGrassTuft_DrabGreen' being destroyed
+[2020.12.21-00.21.45:667][502]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.21.45:667][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.21.46:586][566]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.47:059][607]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.47:095][610]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.47:602][670]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.47:609][670]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.21.47:655][670]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.49:990][805]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.50:816][884]LogStaticMesh: Building static mesh Mesh_TallGrassTuft_GoldenBrown...
+[2020.12.21-00.21.50:817][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.50:828][884]LogStaticMesh: Built static mesh [0.01s] /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.21.51:381][915]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.53:223][ 61]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.21.53:259][ 61]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_TallGrassTuft_GoldenBrown15F361F44A7C221740FDF1A91E1D8ABA.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.uasset'
+[2020.12.21-00.21.53:266][ 61]AssetCheck: New page: Asset Save: Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.21.53:266][ 61]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/TallGrassTuft/Mesh_TallGrassTuft_GoldenBrown.Mesh_TallGrassTuft_GoldenBrown
+[2020.12.21-00.21.54:137][122]LogSlate: Window 'Mesh_TallGrassTuft_GoldenBrown' being destroyed
+[2020.12.21-00.21.54:140][122]LogSlate: Window 'Mesh_TallGrassTuft_GoldenBrown' being destroyed
+[2020.12.21-00.21.54:146][122]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.21.54:146][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.21.59:829][553]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.00:309][593]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.01:177][694]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.01:190][694]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.22.01:238][694]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.03:091][795]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.04:091][896]LogTexture: Display: Building textures: T_Ray_01 (BGRA8, 256X256)
+[2020.12.21-00.22.04:091][896]LogStaticMesh: Building static mesh Mesh_WheatGrassBunch_Gold...
+[2020.12.21-00.22.04:093][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.04:113][896]LogStaticMesh: Built static mesh [0.02s] /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.22.04:730][930]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.06:612][ 68]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.06:641][ 68]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_WheatGrassBunch_GoldE070453E455F6700EDF0FCAC62FAC98A.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.uasset'
+[2020.12.21-00.22.06:648][ 68]AssetCheck: New page: Asset Save: Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.22.06:648][ 68]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/WheatGrass/WheatGrassBunch/Mesh_WheatGrassBunch_Gold.Mesh_WheatGrassBunch_Gold
+[2020.12.21-00.22.07:531][128]LogSlate: Window 'Mesh_WheatGrassBunch_Gold' being destroyed
+[2020.12.21-00.22.07:534][128]LogSlate: Window 'Mesh_WheatGrassBunch_Gold' being destroyed
+[2020.12.21-00.22.07:540][128]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.22.07:540][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.22.08:902][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PlantainPlant_Pale20)
+[2020.12.21-00.22.16:770][828]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.17:491][899]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.17:560][906]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.18:695][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.18:707][ 36]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/FT_PlantainPlant_Pale.FT_PlantainPlant_Pale
+[2020.12.21-00.22.18:737][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.20:124][132]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.21:893][274]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.23:421][400]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.23:455][400]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FT_PlantainPlant_PaleF242EFA54C83775643A799BCFEDF1081.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/FT_PlantainPlant_Pale.uasset'
+[2020.12.21-00.22.23:463][400]AssetCheck: New page: Asset Save: FT_PlantainPlant_Pale
+[2020.12.21-00.22.23:463][400]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/FT_PlantainPlant_Pale.FT_PlantainPlant_Pale
+[2020.12.21-00.22.24:516][484]LogSlate: Window 'FT_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.22.24:519][484]LogSlate: Window 'FT_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.22.26:107][598]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.26:457][628]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.26:860][672]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.26:874][672]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.22.26:903][672]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.27:879][717]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.29:355][838]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.31:580][995]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.31:612][995]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/Mesh_PlantainPlant_PaleF684BC684C4B54F328DCE79A8642F442.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.uasset'
+[2020.12.21-00.22.31:619][995]AssetCheck: New page: Asset Save: Mesh_PlantainPlant_Pale
+[2020.12.21-00.22.31:619][995]LogContentValidation: Display: Validating StaticMesh /Game/BeefyGrassLands/BeefyGrass/PlantainPlant/Mesh_PlantainPlant_Pale.Mesh_PlantainPlant_Pale
+[2020.12.21-00.22.32:949][ 87]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.22.32:952][ 87]LogSlate: Window 'Mesh_PlantainPlant_Pale' being destroyed
+[2020.12.21-00.22.32:958][ 87]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.22.32:958][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.22.39:749][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PlantainPlant_Pale17)
+[2020.12.21-00.22.45:764][939]Cmd: TRANSACTION UNDO
+[2020.12.21-00.22.45:764][939]LogEditorTransaction: Undo Move Actors
+[2020.12.21-00.22.45:782][939]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.50:337][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.22.50:357][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.21-00.22.50:367][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.21-00.22.50:510][281]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap282AC2164E80ABFCD69CC6B699CD057D.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.21-00.22.50:525][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.21-00.22.50:720][281]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_BuiltDataDED9631B41023EEA42E2DE88A92D72DC.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.21-00.22.50:729][281]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.21-00.22.50:729][281]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.12.21-00.22.50:729][281]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
