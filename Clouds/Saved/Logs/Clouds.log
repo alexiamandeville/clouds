@@ -7933,3 +7933,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.21-00.32.54:232][  9]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.21-00.32.54:232][  9]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
 [2020.12.21-00.32.54:232][  9]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.12.21-00.33.22:552][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.21-00.33.22:598][246]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.24:659][246]LogSlate: Window 'Save Content' being destroyed
+[2020.12.21-00.33.25:544][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.21-00.33.25:580][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.27:562][351]LogSlate: Window 'Save Content' being destroyed
+[2020.12.21-00.33.33:233][  9]LogTexture: Display: Building textures: T_GoodSky_SkyRing (AutoDXT, 256X256)
+[2020.12.21-00.33.33:233][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_F (AutoDXT, 2048X512)
+[2020.12.21-00.33.33:233][  9]LogStaticMesh: Building static mesh SM_GoodSky_StarMesh...
+[2020.12.21-00.33.33:234][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.33:249][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_A (AutoDXT, 2048X512)
+[2020.12.21-00.33.33:253][  9]LogStaticMesh: Built static mesh [0.02s] /Game/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.SM_GoodSky_StarMesh
+[2020.12.21-00.33.33:276][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_B (AutoDXT, 2048X512)
+[2020.12.21-00.33.33:276][  9]LogStaticMesh: Building static mesh SM_GoodSky_Sphere...
+[2020.12.21-00.33.33:277][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.33:297][  9]LogStaticMesh: Built static mesh [0.02s] /Game/GoodSky/Source/Mesh/SM_GoodSky_Sphere.SM_GoodSky_Sphere
+[2020.12.21-00.33.33:312][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_D (AutoDXT, 2048X512)
+[2020.12.21-00.33.33:312][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_C (AutoDXT, 2048X512)
+[2020.12.21-00.33.34:340][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_sphere (AutoDXT, 2048X2048)
+[2020.12.21-00.33.34:340][  9]LogTexture: Display: Building textures: T_GoodSky_clouds_E (AutoDXT, 2048X512)
+[2020.12.21-00.33.34:340][  9]LogTexture: Display: Building textures: T_GoodSky_Moon (AutoDXT, 512X512)
+[2020.12.21-00.33.34:340][  9]LogTexture: Display: Building textures: T_GoodSky_Lightning (AutoDXT, 1024X1024)
+[2020.12.21-00.33.34:340][  9]LogTexture: Display: Building textures: T_GoodSky_noise_smooth (AutoDXT, 512X512)
+[2020.12.21-00.33.34:340][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Moon, compiling. 
+[2020.12.21-00.33.34:343][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.21-00.33.34:343][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.21-00.33.34:343][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Emissive, compiling. 
+[2020.12.21-00.33.34:346][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_SkyRing_, compiling. 
+[2020.12.21-00.33.34:363][  9]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.12.21-00.33.34:363][  9]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.21-00.33.34:363][  9]LogStaticMesh: Building static mesh SM_GoodSky_Hemisphere...
+[2020.12.21-00.33.34:364][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.34:391][  9]LogStaticMesh: Built static mesh [0.03s] /Game/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.SM_GoodSky_Hemisphere
+[2020.12.21-00.33.34:398][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Base, compiling. 
+[2020.12.21-00.33.34:401][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Stars_Moon, compiling. 
+[2020.12.21-00.33.34:406][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Storm, compiling. 
+[2020.12.21-00.33.34:411][  9]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Stars, compiling. 
+[2020.12.21-00.33.34:416][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.34:433][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky
+[2020.12.21-00.33.34:480][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.34:696][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.21-00.33.34:896][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.21-00.33.35:021][  9]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2020.12.21-00.33.35:652][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.21-00.33.35:652][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.21-00.33.36:076][ 10]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.21-00.33.36:149][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.21-00.33.36:457][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.21-00.33.36:479][ 35]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.21-00.33.40:879][481]BlueprintLog: New page: Compile BP_GoodSky
+[2020.12.21-00.33.40:953][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.12.21-00.33.43:442][725]LogSlate: Took 0.013209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.21-00.33.45:817][997]LogSlate: Window 'BP_GoodSky' being destroyed
+[2020.12.21-00.33.45:820][997]LogSlate: Window 'BP_GoodSky' being destroyed
+[2020.12.21-00.33.45:850][997]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.12.21-00.33.45:850][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.21-00.33.49:731][445]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.52:220][739]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.54:110][960]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.33.57:882][408]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.12.21-00.34.20:809][116]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.34.33:175][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.34.36:499][723]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.34.41:398][284]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.12.21-00.34.43:743][549]Cmd: TRANSACTION UNDO
+[2020.12.21-00.34.43:743][549]LogEditorTransaction: Undo Move Components
+[2020.12.21-00.34.43:755][549]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.34.48:590][ 67]Cmd: TRANSACTION UNDO
+[2020.12.21-00.34.48:590][ 67]LogEditorTransaction: Undo Modify Component Location
+[2020.12.21-00.34.48:601][ 67]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.34.59:322][298]Cmd: POLY SELECT MEMORY UNION
+[2020.12.21-00.35.07:183][235]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.35.09:864][547]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.35.14:139][ 20]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.35.16:914][316]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.35.29:724][811]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.12.21-00.35.34:538][384]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.21-00.35.41:956][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.21-00.36.37:428][817]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.36.41:993][353]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.36.45:618][780]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.37.15:633][360]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.12.21-00.37.16:695][486]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2020.12.21-00.38.55:200][423]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2020.12.21-00.38.55:723][485]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2020.12.21-00.38.55:853][500]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.21-00.38.56:471][572]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.12.21-00.38.57:682][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_174)
+[2020.12.21-00.38.58:254][783]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2020.12.21-00.39.01:139][105]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.02:739][293]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.04:213][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.05:705][647]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.07:655][880]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.09:489][ 98]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.12:938][511]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.14:381][684]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.17:089][  6]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.18:322][153]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.19:738][322]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.22:413][640]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.23:922][819]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.26:606][139]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.29:165][446]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.31:464][719]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.33:679][980]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.35:695][220]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.38:976][605]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.41:206][871]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.42:396][ 13]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.57:081][768]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.39.57:091][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.21-00.39.57:191][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.12.21-00.39.57:343][768]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap7DCA8E92420938761D54A7AC1CD73896.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.12.21-00.39.57:358][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap_BuiltData" FILE="D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.21-00.39.57:549][768]LogSavePackage: Moving 'D:/Documents/GitHub/clouds/Clouds/Saved/FlyingExampleMap_BuiltDataBEEF694A420B958D800FDFB8083DEAC3.tmp' to 'D:/Documents/GitHub/clouds/Clouds/Content/FlyingBP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2020.12.21-00.39.57:560][768]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.21-00.39.57:560][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2020.12.21-00.39.57:560][768]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2020.12.21-00.40.10:446][263]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
