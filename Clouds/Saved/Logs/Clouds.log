@@ -8581,3 +8581,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.21-00.48.34:599][303]LogPlayLevel: Display: Destroying online subsystem :Context_16
 [2020.12.21-00.48.41:224][642]BlueprintLog: New page: Compile CameraFollow
 [2020.12.21-00.48.41:272][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.12.21-00.51.55:890][302]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.52.04:956][329]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.21-00.52.05:067][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.12.21-00.52.05:183][329]LogSavePackage: Moving '../../../../../../Repository/Clouds/Clouds/Saved/FlyingExampleMap_Auto1292471D7459815470CD470A74045AF51.tmp' to '../../../../../../Repository/Clouds/Clouds/Saved/Autosaves/Game/FlyingBP/Maps/FlyingExampleMap_Auto1.umap'
+[2020.12.21-00.52.05:190][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FlyingBP/Maps/FlyingExampleMap' took 0.152
+[2020.12.21-00.52.05:190][329]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2020.12.21-00.52.05:190][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlyingBP/Blueprints/CameraFollow] ([1] browsable assets)...
+[2020.12.21-00.52.05:203][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlyingBP/Blueprints/CameraFollow.CameraFollow]
+[2020.12.21-00.52.05:204][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/Blueprints/CameraFollow]
+[2020.12.21-00.52.05:224][329]LogSavePackage: Moving '../../../../../../Repository/Clouds/Clouds/Saved/CameraFollow_Auto1C79B88B4456747E95291479C996B723C.tmp' to '../../../../../../Repository/Clouds/Clouds/Saved/Autosaves/Game/FlyingBP/Blueprints/CameraFollow_Auto1.uasset'
+[2020.12.21-00.52.05:225][329]LogFileHelpers: Auto-saving content packages took 0.035
